@@ -1,6 +1,6 @@
 This is a small aplication to learn the basics of ML.
 
-![Site usage example]("readme-images/Example.png")
+![Site usage example](readme-images/Example.png?raw=true "Title")
 
 To run the software we have 3 steps:
 
