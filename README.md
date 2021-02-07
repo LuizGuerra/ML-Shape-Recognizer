@@ -8,8 +8,10 @@ To run the software we have 3 steps:
     Python3:
     python -m http.server 8000
 
-2. Generating a ML:
+2. Generating a ML (only if you dont want to use one of the previous generated):
     http://localhost:8000/ML-Shapes/generate-ml/
 
 3. Testing a ML:
     http://localhost:8000/ML-Shapes/using-ml/
+
+This final step is where you actually use the application.
